@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Tema aplikasi dasar. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Sesuaikan tema di sini. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorAccent</item>
+        <item name="colorAccent">@android:color/darker_gray</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+
+</resources>
